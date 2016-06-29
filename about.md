@@ -19,4 +19,4 @@ I am Matt Arnold. A computer programer who sometimes moonlights as a dissability
 
 ### Contact me
 
-[email@domain.com](mailto:marnold@devio.us)
+[email](mailto:marnold@devio.us)
