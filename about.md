@@ -4,12 +4,19 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Matt Arnold is writing in the third person because that is what `they` say `you` should do in biographic information. He thinks tha whomever these `they` people are then they should find some more productive use of their time
 
-### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+### Grammer Jokes? Seriously?
+Yes.
+
+### Ok but, Who are you?
+
+Good question, Glad you asked. 
+I am Matt Arnold. A computer programer who sometimes moonlights as a dissability rights activist, and ameature historian of technology. You've reached the place where I put my Resume and Brag about stuff I've done. I occisionally blog about things that interest me.
+
+
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[email@domain.com](mailto:marnold@devio.us)
