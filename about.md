@@ -13,7 +13,7 @@ Yes.
 ### Ok but, Who are you?
 
 Good question, Glad you asked. 
-I am Matt Arnold. A computer programmer who sometimes moonlights as a disability rights activist, and armature historian of technology. You've reached the place where I put my Resume and Brag about stuff I've done. I occasionally blog about things that interest me.
+I am Matt Arnold. A computer programmer who sometimes moonlights as a disability rights activist, and hoobyist historian of technology. You've reached the place where I put my Resume and Brag about stuff I've done. I occasionally blog about things that interest me.
 
 
 
