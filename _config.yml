@@ -14,14 +14,14 @@ avatar: https://pbs.twimg.com/profile_images/58499305/istockphoto_726779_red_ori
 #
 # Flags below are optional
 #
-
+license: CC-BY-SA
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
   email: marnold@devio.us
   facebook:
   flickr:
-  github: github.com/marnold
+  github: https://github.com/marnold
   instagram:
   linkedin:
   pinterest:
